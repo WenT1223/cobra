@@ -1,0 +1,79 @@
+body {
+    background: rgba(32, 32, 121, 0.568);
+    color: white;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: black;
+    background-image: url("images/hero.jpg");
+    background-size: 100%;
+    background-position: center;
+    padding: 20px;
+    height: 400px;
+    text-align: center;
+}
+header a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+header .logo a {
+    background-image: url("images/logo.png");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 80px;
+    text-indent: -999999px;
+    top: -30px;
+    position: relative;
+    width: 300px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+.features {
+    background: white;
+    color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.features figure{
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+}
+.features figure img {
+    border:0.5px solid white;
+    border-radius: 50%;
+    box-shadow: grey 0px 0px 10px;
+    width: 200px;
+}
+
+
+
+footer {
+    background: black;
+    color: grey;
+    font-size: 12px;
+    padding: 20px 20px;
+    text-align: center;
+}
