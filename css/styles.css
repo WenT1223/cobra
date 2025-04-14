@@ -122,7 +122,7 @@ section {
 /* O NAS */
 .o-nas {
     margin-top: 10rem;
-    background: url("../images/o-nas_background_2.webp");
+    background: url("root/images/o-nas_background_2.webp");
     clip-path: polygon(0 6%, 100% 0, 100% 94%, 0 100%);
     padding-top: 6rem;
     padding-bottom: 6rem;
@@ -456,7 +456,7 @@ th {
 /* KONTAKT */
 .kontakt {
     margin-top: 10rem;
-    background: url("../images/o-nas_background_2.webp");
+    background: url("main/images/o-nas_background_2.webp");
     clip-path: polygon(0 6%, 100% 0, 100% 100%, 0 100%);
     padding-top: 6rem;
     padding-bottom: 6rem;
