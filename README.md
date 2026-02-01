@@ -1,1 +1,2 @@
 This is a website I did for my school company in 2025. I had no prior experience in HTML/CSS and so i was learning along the way. Design was inspired by my friend's website, which he did for a local company. ChatGPT, the friend and Google were my main source of help and learning tool. Scripts are entirely AI made. While it isn't the best, the project taught me the basics.
+If you found yourself on the pictures and/or have any other problem with site's content, please contact me.
